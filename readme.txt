@@ -4,4 +4,4 @@ Git is free software made by linus under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 你还记得我吗？我是你爸爸。
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
