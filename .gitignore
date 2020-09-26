@@ -1,0 +1,6 @@
+#windows:
+Thumb.db
+enthumbs.db
+Desktop.ini
+#C:
+*.exe
