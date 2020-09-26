@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 我爱北京天安门，天安门上太阳升！
 额，那好吧。
 It's a new start!
+密码正确，我，打钱
