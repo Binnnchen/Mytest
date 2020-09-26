@@ -5,6 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 你还记得我吗？我是你爸爸。
 Creating a new branch is quick and simple.
-额，那好吧。这是一个严肃的问题哦
-为什么要“存储”现场？
-yes， that's a problem!
+额，那好吧。
